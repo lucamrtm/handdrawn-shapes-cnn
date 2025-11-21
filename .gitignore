@@ -1,1 +1,9 @@
 data/full_numpy_bitmap_*.npy
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos temporários
+__pycache__/
+*.pyc
